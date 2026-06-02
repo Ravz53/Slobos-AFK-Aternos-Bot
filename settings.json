@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Nah-Giga_S2.aternos.me",
-    "port": 245341,
-    "version": "",
+    "port": 45341,
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
